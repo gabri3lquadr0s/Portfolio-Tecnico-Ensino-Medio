@@ -1,5 +1,5 @@
 <div>
-    <h1 style="text-align:cente">Explicação dos Trabalhos Significativos</<h1><br>
+    <h1 style="text-align:center">Explicação dos Trabalhos Significativos</<h1><br>
     <h2>Atividade Pseudo-Código</h2>
     <p>Nesta atividade a turma teve o primeiro contato com o Portugol. Pegamos alguns fluxogramas <br>que fizemos em aulas anteriores e os transformamos
      em pseudo-códigos em Portugol. Os pro- <br>cessos que tivemos que construir incluem: um sistema que cálcula o troco de um cliente, um <br>que cálcula a
