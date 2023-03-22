@@ -1,0 +1,1 @@
+Explicação das Autorias
