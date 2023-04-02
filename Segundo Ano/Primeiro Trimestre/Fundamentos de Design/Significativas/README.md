@@ -9,6 +9,6 @@
   <h2>Apresentação de Protótipos</h2>
   <p>Neste outro projeto, a professora nos deu temas para fazer um protótipo de aplicativo com 10<br>páginas de mínimo. O tema do nosso
   grupo foi um aplicativo para controlar o consumo de água<br>pessoal(quantos litros você bebeu no dia) e o consumo da casa(banheiro, cozinha,
-  etc). Como<br>tinhamos um pouquinho mais de conhecimento sobre o Figma, o trabalho saiu mais bonito e<br>organizado.</p>
+  etc). Como<br>tinhamos um pouquinho mais de conhecimento sobre o Figma, o trabalho saiu mais facilmente.</p>
   <a href="https://www.figma.com/file/sUySSYXaab6eUzmvgdqrI0/WaterHour?node-id=0%3A1&t=qJFgbPyoSlbPqy4t-1">Link do Projeto</a>
   </div>
