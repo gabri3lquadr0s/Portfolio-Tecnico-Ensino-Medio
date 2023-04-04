@@ -20,9 +20,9 @@ CREATE TABLE musicas(
     playlists_FK VARCHAR(100) NOT NULL,
     artista_FK VARCHAR(100) NOT NULL,
     PRIMARY KEY (id_PK),
-    FOREIGN KEY (album_FK) REFERENCES album (titulo),
-    FOREIGN KEY (playlists_FK) REFERENCES playlist (nome),
-    FOREIGN KEY (artista_FK) REFERENCES artista (nome)
+    FOREIGN KEY (album_FK) REFERENCES album (id_PK),
+    FOREIGN KEY (playlists_FK) REFERENCES playlist (id_PK),
+    FOREIGN KEY (artista_FK) REFERENCES artista (id_PK)
 );
 
 CREATE TABLE album(
@@ -33,7 +33,7 @@ CREATE TABLE album(
     duracao_total INT NOT NULL,
     PRIMARY KEY (id_PK),
     FOREIGN KEY (musicas_FK) REFERENCES musicas (id_PK),
-    FOREIGN KEY (artista_FK) REFERENCES artista (nome)
+    FOREIGN KEY (artista_FK) REFERENCES artista (id_PK)
 );
 
 CREATE TABLE playlist(
