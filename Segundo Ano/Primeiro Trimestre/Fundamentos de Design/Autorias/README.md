@@ -4,4 +4,4 @@
 <a href="https://github.com/gabri3lquadr0s/Portfolio-Tecnico-Ensino-Medio/blob/main/Segundo%20Ano/Primeiro%20Trimestre/Fundamentos%20de%20Design/Autorias/Logo.png">Link do Projeto</a><br>
 <h2>Extreme Focus</h2>
 <p>Nesta outra autoria, peguei um dos temas possíveis dos trabalhos que precisávamos apresentar e<br>fiz minha própria visão no Figma. No caso, o aplicativo tem o objetivo de ajudar no foco, por isso é<br>chamado de Extreme Focus.</p>
-<a href="https://www.figma.com/proto/QqpoxG1rgBYjQ2QHkY3Qnq/Extreme-Focus?node-id=33-5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4">Link do Projeto</a>
+<a href="https://www.figma.com/file/QqpoxG1rgBYjQ2QHkY3Qnq/Extreme-Focus?node-id=0%3A1&t=X81xNdBqpS5i4c39-1">Link do Projeto</a>
