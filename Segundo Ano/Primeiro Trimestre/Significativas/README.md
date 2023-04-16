@@ -3,7 +3,6 @@
     <h2>Diagrama ER e SQL-Banco de Dados de um Jogo</h2>
     <p>Esta foi uma atividade mais livre, onde pudemos escolher o tema do nosso diagrama e código.<br>Eu, no caso, escolhi representar um Banco de Dados de um
     jogo qualquer, onde temos o mapa,<br>o player, o inventario, itens e inimigos. Foi uma atividade voltada para adquirir mais experiência<br>em SQL.</p><br>
-    <h2>Atividade SQL-Inserção de Dados</h2>
-    <p>Esse arquivo SQL foi o primeiro que criamos em aula com os comandos de inserção de dados<br>como INSERT INTO e VALUE em mente. O tema era livre, então fiz o banco      de dados de uma<br>conta no Banco.</p><br>
+        <h2>Primeira Atividade com HTML e JavaScript</h2>
+        <p>Bom, pelo menos no Ensino Médio foi a primeira atividade envolvendo essas linguagens. A atividade<br>consistiu em traduzir o código que fizemos para calcular a idade em o Portugol para JavaScript, e também<br>fazer uma página em HTML para interagirmos com esse código. JavaScript é bem mais divertido que o<br>Portugol, então, foi bem mais interessante.</p>
 </div>
-
