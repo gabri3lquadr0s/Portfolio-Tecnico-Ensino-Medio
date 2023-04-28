@@ -1,0 +1,27 @@
+#calculo{
+    width: 200px;
+    height: 75px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: red;
+}
+
+
+body{
+    background-image: url("https://www.imagensanimadas.com/data/media/1555/homem-aranha-imagem-animada-0006.gif");
+    min-height: 90vh;
+}
+
+
+h1{
+    height: 100px;
+    color: #000000;
+    text-align: center;
+    size: 100px;
+}
+
+
+#apresentacao{
+    size: 30px;
+    color: #000000;
+}
